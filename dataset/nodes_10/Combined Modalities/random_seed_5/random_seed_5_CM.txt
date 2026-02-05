@@ -1,1 +1,0 @@
-I want to generate a road network as shown in the figure. The node IDs and edge lengths are clearly labeled in the figure, and all roads are bidirectional. The precise coordinates of the nodes corresponding to IDs 0 to 9 are given as numerical tuples: (300, 400), (100, 300), (200, 100), (400, 0), (300, 100), (0, 0), (200, 400), (100, 200), (0, 100), (100, 0).
